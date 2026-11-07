@@ -259,7 +259,7 @@ The goal of PlacementAI is to make technical interview preparation more personal
 
 **Rohith Kumar K M**
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR-PROFILE/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rohith-kumar-k-m/)
 
 ---
 
